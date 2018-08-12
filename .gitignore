@@ -1,0 +1,11 @@
+.vs/
+Debug/
+ipch/
+Release/
+
+*.user
+*.opensdf
+*.sdf
+*.suo
+
+movedlls.bat
